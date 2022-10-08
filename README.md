@@ -11,7 +11,7 @@
   
 ## Description
 
-In week 13 of the UWA coding bootcamp we have been tasked with building the back end for an e-commerce website.
+Built the back end for an e-commerce website.
 
 E-Commerce in 2019 alone is estimated to be worth around $29 trillion, and with sites such as Shopify and WooCommerce provide businesses of all sizes with a suite of services.
 
